@@ -63,3 +63,11 @@ ScrollReveal().reveal(".about-section img", {
     delay: 2000,
   });
 
+  //Rooms
+
+  ScrollReveal().reveal(".room", {
+    ...scrollRevealOption,
+    interval:1000,
+  });
+
+
