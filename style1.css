@@ -299,6 +299,63 @@ margin-bottom: .5rem;
     color: #60a5fa;
   }
 
+  .service_container{
+    width:100%;
+    min-height: 250px;
+    background-image: url(images/service.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    padding:0 1rem;
+  }
+  .service-content{
+    background: #fff;
+    padding: 1rem;
+    width:100%;
+  }
+  .service-content p{
+    font-size: 0.75rem;
+  }
+  .service-content h1{
+    font-size: 1rem;
+  }
+  .service-content h5{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    color: var(--text-light);
+  }
+  .service-info h5 i{
+    margin-right: 0.5rem;
+    width:30px;
+    height:30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: #78716c;
+    color: #60a5fa;
+    background-color: #dbeafe;
+  }
+
+
+  .service-content h5 i.time-support{
+    color: #f472b6;
+    background-color: #fce7f3;
+  }
+  .service-content h5 i.conference{
+    color: #c084fc;
+    background-color: #f3e8ff;
+  }
+  .service-content h5 i.tourist{
+    color: #fb7185;
+    background-color: #ffe4e6;
+  }
+
+
+
 
 @media (width >526px){
     header{
@@ -331,6 +388,18 @@ margin-bottom: .5rem;
         grid-template-columns: repeat(2,1fr);
         gap: 1rem;
     }
+
+    .service-content{
+        background: #fff;
+        padding: 1rem;
+        width:40%;
+        margin-right:3rem;
+      }
+      
+  .service_container{
+    display: flex;
+    justify-content: flex-end;
+  }
 }
 @media (width > 768px){
     header{
@@ -420,4 +489,25 @@ margin-bottom: .5rem;
         grid-template-columns: repeat(3,1fr);
         gap: 1rem;
     }
+    .service-content{
+        background: #fff;
+        padding: 1rem;
+        width:40%;
+        margin-right:3rem;
+      }
+      
+  .service_container{
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .service-content p{
+    font-size: 1.25rem;
+  }
+  .service-content h1{
+    font-size: 1.75rem;
+  }
+  .service-info h5{
+    font-size: 1.1rem;
+  }
 }

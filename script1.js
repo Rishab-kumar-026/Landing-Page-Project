@@ -70,4 +70,30 @@ ScrollReveal().reveal(".about-section img", {
     interval:1000,
   });
 
+  //Services
+
+  ScrollReveal().reveal(".security", {
+    ...scrollRevealOption,
+    orign: "right",
+  });
+  
+  ScrollReveal().reveal(".time-support", {
+    ...scrollRevealOption,
+    orign: "right",
+    delay: 500,
+  });
+  
+  ScrollReveal().reveal(".conference", {
+    ...scrollRevealOption,
+    orign: "right",
+    delay: 1000,
+  });
+  
+  ScrollReveal().reveal(".tourist", {
+    ...scrollRevealOption,
+    orign: "right",
+    delay: 1500,
+  });
+  
+
 
