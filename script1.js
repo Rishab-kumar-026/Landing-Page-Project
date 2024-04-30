@@ -72,26 +72,26 @@ ScrollReveal().reveal(".about-section img", {
 
   //Services
 
-  ScrollReveal().reveal(".security", {
+  ScrollReveal().reveal(".security ", {
     ...scrollRevealOption,
-    orign: "right",
+    origin: "right",
   });
   
   ScrollReveal().reveal(".time-support", {
     ...scrollRevealOption,
-    orign: "right",
+    origin: "right",
     delay: 500,
   });
   
   ScrollReveal().reveal(".conference", {
     ...scrollRevealOption,
-    orign: "right",
+    origin: "right",
     delay: 1000,
   });
   
   ScrollReveal().reveal(".tourist", {
     ...scrollRevealOption,
-    orign: "right",
+    origin: "right",
     delay: 1500,
   });
   
