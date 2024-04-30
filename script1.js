@@ -74,24 +74,21 @@ ScrollReveal().reveal(".about-section img", {
 
   ScrollReveal().reveal(".security ", {
     ...scrollRevealOption,
-    origin: "right",
+ 
   });
   
   ScrollReveal().reveal(".time-support", {
     ...scrollRevealOption,
-    origin: "right",
     delay: 500,
   });
   
   ScrollReveal().reveal(".conference", {
     ...scrollRevealOption,
-    origin: "right",
     delay: 1000,
   });
   
   ScrollReveal().reveal(".tourist", {
     ...scrollRevealOption,
-    origin: "right",
     delay: 1500,
   });
   
