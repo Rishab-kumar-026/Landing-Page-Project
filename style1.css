@@ -202,7 +202,7 @@ nav {
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3);
   margin: 0 auto;
   display: grid;
-  transform: translateY(-45%);
+  transform: translateY(-50%);
   border-radius: 0.5rem;
 }
 
