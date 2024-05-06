@@ -182,8 +182,10 @@ nav {
 }
 
 .heading_container h1 {
+  width: 90%;
+  margin: 0 auto;
   color: var(--white);
-  font-size: 3.75rem;
+  font-size: 3.85rem;
   line-height: 4rem;
   margin-bottom: 2rem;
 }

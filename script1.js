@@ -37,7 +37,7 @@ ScrollReveal().reveal(".heading_container p", {
 
 ScrollReveal().reveal(".heading_container h1", {
   ...scrollRevealOption,
-  delay: 500,
+  delay: 600,
 });
 
 //About 
