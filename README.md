@@ -1,4 +1,4 @@
 The following is the Interface of the Project " Landing Page " 
 
-![Screenshot 2024-05-06 212600](https://github.com/Rishab-kumar-026/Landing-Page-Project/assets/163623411/89b23dba-bdee-4ae3-9cb8-425e9581a2b0)
-![Screenshot 2024-05-06 224053](https://github.com/Rishab-kumar-026/Landing-Page-Project/assets/163623411/aa4b369f-70db-4d0c-a96e-63197098689d)
+![Screenshot 2024-05-06 212600](https://github.com/Rishab-kumar-026/Landing-Page-Project/assets/163623411/89b23dba-bdee-4ae3-9cb8-425e9581a2b0)![Screenshot 2024-05-06 224053](https://github.com/Rishab-kumar-026/Landing-Page-Project/assets/163623411/aa4b369f-70db-4d0c-a96e-63197098689d)
+
