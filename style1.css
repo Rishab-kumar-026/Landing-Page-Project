@@ -172,6 +172,7 @@ nav {
 .heading_container {
   text-align: center;
   margin: 3rem 0 3rem 0;
+  padding:4rem 0;
 }
 
 .heading_container p {
@@ -588,7 +589,7 @@ nav {
   }
 
   .heading_container {
-    padding-top: 12rem;
+      padding:6rem 0;
   }
 
   .about-section {
@@ -720,14 +721,16 @@ nav {
     align-content: center;
     height: 120px;
   }
+.heading_container{
+  padding: 5rem 0;
 
+}
   .input_group i {
     font-size: 1.7rem;
   }
 
   .input_details h5 {
     font-size: 1.15rem;
-    ;
   }
 
   .heading_container {
