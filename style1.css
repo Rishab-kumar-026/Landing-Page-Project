@@ -168,8 +168,26 @@ nav {
 .book-btn {
   display: none;
 }
-
 .heading_container {
+  padding-block: 10rem 15rem;
+}
+
+.heading_container p {
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  color: var(--white);
+  text-align: center;
+  opacity: 0.6;
+}
+
+.heading_container h1 {
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 4.5rem;
+  color: var(--white);
+  text-align: center;
+}
+/* .heading_container {
   text-align: center;
   margin: 3rem 0 3rem 0;
   padding:4rem 0;
@@ -189,7 +207,7 @@ nav {
   font-size: 3.85rem;
   line-height: 4rem;
   margin-bottom: 2rem;
-}
+} */
 
 .heading_container h1 span {
   color: var(--primary-color);
@@ -587,10 +605,10 @@ nav {
   .input_details button {
     width: 12rem;
   }
-
+/*   
   .heading_container {
       padding:6rem 0;
-  }
+  } */
 
   .about-section {
     display: flex;
@@ -721,10 +739,10 @@ nav {
     align-content: center;
     height: 120px;
   }
-.heading_container{
+/* .heading_container{
   padding: 5rem 0;
 
-}
+} */
   .input_group i {
     font-size: 1.7rem;
   }
@@ -733,7 +751,7 @@ nav {
     font-size: 1.15rem;
   }
 
-  .heading_container {
+  /* .heading_container {
     margin: 0 auto;
   }
 
@@ -744,7 +762,7 @@ nav {
 
   .heading_container h1 {
     font-size: 4rem;
-  }
+  } */
 
   .about-section img {
     width: 450px;
