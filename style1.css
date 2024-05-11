@@ -187,27 +187,6 @@ nav {
   color: var(--white);
   text-align: center;
 }
-/* .heading_container {
-  text-align: center;
-  margin: 3rem 0 3rem 0;
-  padding:4rem 0;
-}
-
-.heading_container p {
-  color: var(--white);
-  opacity: 0.6;
-  font-size: 1rem;
-  margin-bottom: 1.5rem;
-}
-
-.heading_container h1 {
-  width: 85%;
-  margin: 0 auto;
-  color: var(--white);
-  font-size: 3.85rem;
-  line-height: 4rem;
-  margin-bottom: 2rem;
-} */
 
 .heading_container h1 span {
   color: var(--primary-color);
@@ -605,10 +584,7 @@ nav {
   .input_details button {
     width: 12rem;
   }
-/*   
-  .heading_container {
-      padding:6rem 0;
-  } */
+
 
   .about-section {
     display: flex;
@@ -739,10 +715,7 @@ nav {
     align-content: center;
     height: 120px;
   }
-/* .heading_container{
-  padding: 5rem 0;
 
-} */
   .input_group i {
     font-size: 1.7rem;
   }
@@ -751,18 +724,7 @@ nav {
     font-size: 1.15rem;
   }
 
-  /* .heading_container {
-    margin: 0 auto;
-  }
 
-  .heading_container p {
-    font-size: 2rem;
-    margin-bottom: 3rem;
-  }
-
-  .heading_container h1 {
-    font-size: 4rem;
-  } */
 
   .about-section img {
     width: 450px;
